@@ -5,9 +5,9 @@ The idea is to convert the list to a pom.xml file and scan that using [Owasp Dep
 
 ## Requirements
 
-Maven
-Python
-A list of Jar files names
+* Maven
+* Python
+* A list of Jar files names
 
 ## Usage
 
