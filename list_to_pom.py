@@ -1,6 +1,6 @@
 # Similar:
-# https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_p9qa4qb-AhUig_0HHZnrAUgQFnoECAMQAQ&url=https%3A%2F%2Fgist.github.com%2Febd2b69dc4078065a837e9183f48a873&usg=AOvVaw0Mb6PgGasWXC_rJs8Yz7vd
-# https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj_p9qa4qb-AhUig_0HHZnrAUgQFnoECAUQAQ&url=https%3A%2F%2Fgist.github.com%2Fxshyamx%2F5927550&usg=AOvVaw1cTEExnNCzpdGh1RCXeuex
+# https://gist.github.com/zkokaja/ebd2b69dc4078065a837e9183f48a873
+# https://gist.github.com/xshyamx/5927550
 
 import sys
 import aiohttp
